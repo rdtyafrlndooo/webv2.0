@@ -1,3 +1,3 @@
 
-global.creator = "SazxOfficial"
-global.apikey = ["apikey1", "apikey 2", "apikey3"]
+global.creator = "Lylia~Silence"
+global.apikey = ["lyliapi", "new26", "silence25"]
